@@ -106,7 +106,7 @@ services:
       # 数据库与日志持久化
       - ./db:/app/db
       # [可选] PT下载目录映射：左侧填NAS本地路径，右侧固定为 /app/upload
-      # 用于实现本地文件秒传到网盘
+      # 用于实现本地文件秒传到网盘，不需要可去掉
       - /vol3/1000/Video/MoviePilot/transfer:/app/upload
       
     restart: always
