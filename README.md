@@ -1,6 +1,6 @@
 ---
 
-# 🎬 TG-Cloud-Sync (tgto123) | 网盘资源自动化管理助手
+# 🎬 tgto123 (TG-Cloud-Sync) | 网盘资源自动化管理助手
 
 <p align="center">
   <a href="https://hub.docker.com/r/walkingd/tgto123">
