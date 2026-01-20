@@ -100,12 +100,12 @@ services:
       # Clash用户通常填 http://127.0.0.1:7890
       - HTTP_PROXY=http://127.0.0.1:7890
       - HTTPS_PROXY=http://127.0.0.1:7890
-      - NO_PROXY=localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,*.123pan.com,*.115.com,*.189.cn,*.quark.cn
+      - NO_PROXY=localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,123pan.com,115.com,189.cn,quark.cn
 
     volumes:
       # 数据库与日志持久化
       - ./db:/app/db
-      # 视频下载保存路径
+      # B站、抖音等视频下载保存路径
       - ./downloads:/app/downloads
       # [可选] PT下载目录映射：左侧填NAS本地路径，右侧固定为 /app/upload
       # 用于实现本地文件秒传到网盘，不需要可去掉
