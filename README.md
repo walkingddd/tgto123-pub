@@ -3,12 +3,12 @@
 # 🎬 tgto123 (TG-Cloud-Sync) | 网盘资源自动化管理助手
 
 <p align="center">
-<a href="[https://hub.docker.com/r/walkingd/tgto123](https://hub.docker.com/r/walkingd/tgto123)">
-<img src="[https://img.shields.io/docker/pulls/walkingd/tgto123?style=flat-square&logo=docker&label=Docker%20Pulls](https://img.shields.io/docker/pulls/walkingd/tgto123?style=flat-square&logo=docker&label=Docker%20Pulls)" alt="Docker Pulls">
-</a>
-<img src="[https://img.shields.io/badge/Python-3.13%2B-blue?style=flat-square&logo=python](https://img.shields.io/badge/Python-3.13%2B-blue?style=flat-square&logo=python)" alt="Python Version">
-<img src="[https://img.shields.io/badge/License-MIT-green?style=flat-square](https://img.shields.io/badge/License-MIT-green?style=flat-square)" alt="License">
-<img src="[https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)" alt="Platform">
+  <a href="https://hub.docker.com/r/walkingd/tgto123">
+    <img src="https://img.shields.io/docker/pulls/walkingd/tgto123?style=flat-square&logo=docker&label=Docker%20Pulls" alt="Docker Pulls">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.13%2B-blue?style=flat-square&logo=python" alt="Python Version">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square" alt="Platform">
 </p>
 
 <p align="center">
