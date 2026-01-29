@@ -24,7 +24,7 @@
 * **🗂️ 策略分流体系**：内置高优先级分类逻辑，自动将资源归类为：
     * `综艺` (Variety)
     * `纪录片` (Documentary)
-    * `动画` (Anime)
+    * `动漫` (Anime)
     * `剧集` (TV Shows)
     * `电影` (Movies)
 * **♻️ 智能洗版 (Smart Dedupe)**：
