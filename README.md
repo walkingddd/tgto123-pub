@@ -27,7 +27,7 @@
     * `动漫` (Anime)
     * `剧集` (TV Shows)
     * `电影` (Movies)
-* **🌍 地区二级归类 (Secondary Classification)：
+* 🌍 地区二级归类 (Secondary Classification)：
     * 深度整理：支持在电影、剧集等五大分类下，进一步按 国产、欧美、日韩、其他 创建子目录进行归类。
     * 灵活开关：通过环境变量 ENV_123_ORGANIZE_SECONDARY_CLASSIFICATION 一键控制（1=启用，0=不启用），满足精细化整理需求。
 * **♻️ 智能洗版 (Smart Dedupe)**：
