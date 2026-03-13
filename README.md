@@ -128,7 +128,7 @@
 version: '3'
 
 services:
-  tgto123-service:
+  tgtodrive-service:
     image: walkingd/tgto123:latest
     container_name: TgtoDrive
     network_mode: host  # 推荐 host 模式以简化端口映射和直链访问
